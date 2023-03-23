@@ -48,4 +48,4 @@ for (const file of eventFiles) {
 }
 
 //resgiter slash
-require("./regsiter-slash")
+require("./register-slash")
